@@ -40,7 +40,8 @@ Este é um projeto simples feito com **HTML**, **CSS** e **JavaScript** que gera
 
 ### 📂 Estrutura dos Arquivos
 
-```numberGenerator/
+```
+numberGenerator/
 ├── index.html # Página principal
 ├── css/
 │   └── style.css # Estilos visuais
