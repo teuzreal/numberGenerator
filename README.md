@@ -42,10 +42,10 @@ Este é um projeto simples feito com **HTML**, **CSS** e **JavaScript** que gera
 
 ```
 numberGenerator/
-├── index.html # Página principal
+├── index.html
 ├── css/
-│   └── style.css # Estilos visuais
+│   └── style.css
 ├── js/
-│   └── script.js # Lógica do gerador de números
-└── README.md # Documentação do projeto
+│   └── script.js
+└── README.md
 
