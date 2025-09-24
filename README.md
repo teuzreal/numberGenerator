@@ -41,11 +41,10 @@ Este é um projeto simples feito com **HTML**, **CSS** e **JavaScript** que gera
 ### 📂 Estrutura dos Arquivos
 
 ```numberGenerator/
-├── html/
-│ └── index.html # Página principal
+├── index.html # Página principal
 ├── css/
-│ └── style.css # Estilos visuais
+│   └── style.css # Estilos visuais
 ├── js/
-│ └── script.js # Lógica do gerador de números
+│   └── script.js # Lógica do gerador de números
 └── README.md # Documentação do projeto
 
