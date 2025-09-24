@@ -48,4 +48,5 @@ numberGenerator/
 ├── js/
 │   └── script.js
 └── README.md
-
+```
+---
