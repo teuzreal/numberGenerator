@@ -50,5 +50,4 @@ numberGenerator/
 ### 👥️ Desenvolvedores
 
 ![GitHub](https://img.shields.io/badge/Matheus%20C.-222222.svg?style=for-the-badge&logo=github&logoColor=white)
-
 ![GitHub](https://img.shields.io/badge/A.%20Marcílio-222222.svg?style=for-the-badge&logo=github&logoColor=white)
