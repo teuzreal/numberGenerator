@@ -7,16 +7,12 @@ Este é um projeto simples feito com **HTML**, **CSS** e **JavaScript** que gera
 ### ✨ Funcionalidades
 
 - Geração de números aleatórios entre **1** e um número escolhido pelo usuário.
-- Interface amigável e responsiva.
-- Validação do valor máximo para evitar erros.
-- Estilo moderno com efeito de sombra e botão estilizado.
 
 ---
 
 ### 🖼️ Prévia do Projeto
 
 <img width="532" height="556" alt="image" src="https://github.com/user-attachments/assets/c6441f88-0d68-45e7-a8d0-14c41d447a58" />
-
 
 ---
 
@@ -50,3 +46,7 @@ numberGenerator/
 └── README.md
 ```
 ---
+
+### 👥️ Desenvolvedores
+
+
