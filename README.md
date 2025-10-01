@@ -1,6 +1,7 @@
-# ❔️ Gerador de Números Aleatórios
+# 🔢 Gerador de Números Aleatórios
 
 Este é um projeto simples feito com **HTML**, **CSS** e **JavaScript** que gera números aleatórios entre 1 e um valor definido pelo usuário.
+
 ---
 
 ### ✨ Funcionalidades
