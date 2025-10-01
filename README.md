@@ -49,6 +49,6 @@ numberGenerator/
 
 ### 👥️ Desenvolvedores
 
-GitHub](https://img.shields.io/badge/Matheus C.-222222.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/Matheus C.-222222.svg?style=for-the-badge&logo=github&logoColor=white)
 
-GitHub](https://img.shields.io/badge/A. Marcílio-222222.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/A. Marcílio-222222.svg?style=for-the-badge&logo=github&logoColor=white)
