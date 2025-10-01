@@ -51,3 +51,5 @@ numberGenerator/
 
 [![GitHub](https://img.shields.io/badge/Matheus%20C.-000000.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/teuzreal)
 [![GitHub](https://img.shields.io/badge/A.%20Marcílio-000000.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Neguin05)
+
+---
